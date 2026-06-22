@@ -133,6 +133,8 @@ Follow these commands to deploy and run the app locally:
 ---
 
 ## 👨‍💻 Author
+Ayushhh
+````````````
 
 - **Ayush Singh** — AI & Machine Learning Developer
 - **GitHub**: [Ayush-0915](https://github.com/Ayush-0915)
@@ -141,4 +143,4 @@ Follow these commands to deploy and run the app locally:
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the LICENSE details for permissions.
+This project is intended for educational and research purposes.
